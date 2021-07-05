@@ -1,0 +1,10 @@
+C:\Users\gabri\source\repos\LogonFuck\LogonFuck\bin\Release\LogonFuck.exe.config
+C:\Users\gabri\source\repos\LogonFuck\LogonFuck\bin\Release\LogonFuck.exe
+C:\Users\gabri\source\repos\LogonFuck\LogonFuck\bin\Release\LogonFuck.pdb
+C:\Users\gabri\source\repos\LogonFuck\LogonFuck\obj\Release\LogonFuck.Properties.Resources.resources
+C:\Users\gabri\source\repos\LogonFuck\LogonFuck\obj\Release\LogonFuck.csproj.GenerateResource.cache
+C:\Users\gabri\source\repos\LogonFuck\LogonFuck\obj\Release\LogonFuck.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\LogonFuck\LogonFuck\obj\Release\LogonFuck.exe
+C:\Users\gabri\source\repos\LogonFuck\LogonFuck\obj\Release\LogonFuck.pdb
+C:\Users\gabri\source\repos\LogonFuck\LogonFuck\obj\Release\LogonFuck.MainForm.resources
+C:\Users\gabri\source\repos\LogonFuck\LogonFuck\obj\Release\LogonFuck.csprojAssemblyReference.cache
