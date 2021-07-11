@@ -119,8 +119,8 @@
   </resheader>
   <data name="label1.Text" xml:space="preserve">
     <value>Hello! You are about to run LogonFuck, a software which will harm your computer.
-if you don't understand what is happening, simply click NO or close this window.
-Otherwise, if you are in a virtual machine, and you understand what
-is going to happen, then you can press YES to start this malware.</value>
+If you don't understand what is happening, simply click NO or close this window.
+Otherwise, if you are in a safe environment, and you understand what's
+going to happen, press YES to start this malware.</value>
   </data>
 </root>
