@@ -1,8 +1,7 @@
 # Security Policy
 
-## Reporting a Vulnerability
+## Responsability
+We aren't responsible for any damages caused by this malware.
 
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect 
+## Bug and vulnerability fixes
+If you run the malware and find a bug, write to issues. I contact the developer to fix it.
